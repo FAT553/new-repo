@@ -1,8 +1,0 @@
-commands
-ls 
-mkdir
-rm
-cd ..
-cd ~
-ls 
-ls -al
