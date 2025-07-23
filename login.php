@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>VulnZone - Login</title>
-    <link rel="stylesheet" href="login-style.css">
+    <link rel="stylesheet" href="style.css">
     <!-- Font Awesome -->
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 </head>
