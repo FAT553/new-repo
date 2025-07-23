@@ -1,4 +1,4 @@
-CREATE DATABASE vulnapp;
+CREATE DATABASE vulnzone;
 
 USE vulnapp;
 
